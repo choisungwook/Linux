@@ -1,0 +1,5 @@
+It is function that get MYID
+you must include <unistd.h> file
+
+// getlogin함수는 현재 자신계정의 ID를 가져온다
+// unistd.h 파일을 꼭 include 해라!
