@@ -1,0 +1,3 @@
+It is function that get current working directory
+
+// getcwd함수는 현재 작업중인 디렉토리의 위치를 구하는 작업을 한다.
