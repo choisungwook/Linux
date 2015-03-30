@@ -1,0 +1,5 @@
+It is function that get hostname 
+you must include unistd.h file
+
+// gethostname은 host를 구할때 사용된다.
+// unistd.h 파일을 include해야된다.
