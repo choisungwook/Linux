@@ -1,2 +1,2 @@
 # Linux
-Linux API && Others
+Linux API and Others
