@@ -1,0 +1,8 @@
+opendir function get pointer(list) of path
+readdir functino get information of opendir on time
+
+you must include <unistd.h> and <dirent.h> file
+
+// opendir 함수는 해당 경로의 포인터를 얻는다.
+// readdir 함수는 해당 디렉토리? 정보를 한번 저장한다.
+
