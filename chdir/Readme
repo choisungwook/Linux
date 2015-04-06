@@ -1,0 +1,7 @@
+It is function that chage directory 
+you must include <dirent.h> file
+if you get accuracity exactly, you must use pharser (ex, strtok)
+
+// chdir함수는 디렉토리를 변경(이동)할수 있다.
+// dirent.h 파일을 꼭 include 해라!
+// 정확도를 높이려면 strtok를 사용해라
