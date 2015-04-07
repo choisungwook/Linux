@@ -4,6 +4,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <unistd.h>
+를 해줘야 한다.
 
 struct stat {
      dev_t           st_dev;        /*ID of device containing file */
