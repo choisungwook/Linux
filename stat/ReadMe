@@ -1,6 +1,10 @@
 파일의 정보를 읽어온다
 실패시 -1를 반환한다.
 
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <unistd.h>
+
 struct stat {
      dev_t           st_dev;        /*ID of device containing file */
      ino_t            st_ino;          /*inode number*/
