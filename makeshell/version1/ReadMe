@@ -1,5 +1,4 @@
 version1 project is program that has a single thread and Each function has a same logic(Exception etc..)
 therefore, it is Inefficiency. but, many Linux Apis is used to program, you are useful Linux Apis
 
-버젼1 쉘 프로젝트는 싱글쓰레드 기반이며, 각각 함수들이 같은 로직들을 가지고 있다(예외처리 등). 그러므로 매우 비효율적이만, 
-리눅스 API에 많은 도움이 되는 프로그램이다.
+버젼1 쉘 프로젝트는 싱글쓰레드 기반이며, 각각 함수들이 같은 로직들을 가지고 있다(예외처리 등). 그러므로 매우 비효율적이만, 리눅스 API에 많은 도움이 되는 프로그램이다.
