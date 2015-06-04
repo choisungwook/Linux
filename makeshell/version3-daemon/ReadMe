@@ -1,3 +1,8 @@
 version3 project is daemon program. 
 comparied to version2, version3 is almost simillar. the different is just that version3 project is running daemons state. 
 so, it is running with background
+
+
+버젼2와 다른점은 서버파일이 데몬으로 돌아간다. 즉, 백그라운드로 돌고있다.
+하지만, 해당 데몬이 실행하는지 체크하는 로직이 없으므로 따로 추가해야한다.
+클라이언트 버젼은 버젼2와 같다.
