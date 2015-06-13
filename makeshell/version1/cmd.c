@@ -628,7 +628,7 @@ proc_cmd(char *cmd_line)
 			cmd_disp[k].func(argc,argv);
 			return;
 		}
-  }
+        }
    
   run_cmd(argc,argv);
 }
