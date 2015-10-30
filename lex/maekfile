@@ -1,5 +1,5 @@
 LEX     = fleX
-TARGET  = test.lex
+TARGET  = sample.lex
 LDFLAGS = -ll
 
 all : run
@@ -8,5 +8,5 @@ lex : $(TARGET)
 	lex $^
 
 run : lex
-	cc lex.yy.c -o test $(LDFLAGS)
+	cc lex.yy.c -o sample $(LDFLAGS)
 
