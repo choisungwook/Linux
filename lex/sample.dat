@@ -1,0 +1,12 @@
+/* 
+	This is a test data for Lex. 2003.4.15
+*/
+//	identifier
+	good, n12, sum_product, __yylex, _526
+//	integer, real
+	526, +526, -526
+	5.26 0.24
+	0.526e10 0.1e-10 12.34e+10
+//string constant
+	"string" "double quote is /"(ascii:042)."
+/* the end of input*/
