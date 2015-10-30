@@ -1,2 +1,2 @@
 1. make
-2. ./test < test.dat
+2. ./sample < sample.dat
