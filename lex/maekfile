@@ -1,0 +1,12 @@
+LEX     = fleX
+TARGET  = test.lex
+LDFLAGS = -ll
+
+all : run
+
+lex : $(TARGET)
+	lex $^
+
+run : lex
+	cc lex.yy.c -o test $(LDFLAGS)
+
